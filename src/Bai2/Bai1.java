@@ -2,6 +2,7 @@ package Bai2;
 
 import java.util.*;
 
+@SuppressWarnings("unused")
 public class Bai1 {
     public static void bai1() {
         Scanner sc = new Scanner(System.in);
